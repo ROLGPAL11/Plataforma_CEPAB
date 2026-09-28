@@ -1,6 +1,3 @@
-[Directorio_CEPAB_3.html](https://github.com/user-attachments/files/32716531/Directorio_CEPAB_3.html)
-# Plataforma_CEPAB
-CONTROL DE EMBARCACIONES Y PERSONAL A BORDO.
 <!DOCTYPE html>
 <html lang="es">
 <head>
